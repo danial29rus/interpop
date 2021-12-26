@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='interpop',
-      version='5.0',
+      version='0.1',
       description='interpolation and approximation',
       packages=['interpop'],
       author_email='shpeka4kaps4@mail.ru',
